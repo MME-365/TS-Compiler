@@ -1,0 +1,6 @@
+{
+  "name": "TypeScript Studio & Compiler",
+  "description": "In-browser TypeScript compiler and runner with code editor, file import/export, and real-time execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
